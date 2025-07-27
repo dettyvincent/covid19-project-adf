@@ -1,0 +1,22 @@
+[
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"dettyvincent/covid19-project-adf/refs/heads/main/Source%20Files/cases_deaths.csv",
+        "sinkFileName":"cases_deaths/cases_deaths.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"dettyvincent/covid19-project-adf/refs/heads/main/Source%20Files/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions/hospital_admissions.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"dettyvincent/covid19-project-adf/refs/heads/main/Source%20Files/testing.csv",
+        "sinkFileName":"testing/testing.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"dettyvincent/covid19-project-adf/refs/heads/main/Source%20Files/country_response.csv",
+        "sinkFileName":"country_response/country_response.csv"
+    }
+]
